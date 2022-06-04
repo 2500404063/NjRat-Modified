@@ -13,6 +13,9 @@ Modded :-
 -No-Ip Updater<br>
 -Assembly Changer<br>
 
-
-<img src="https://i.gyazo.com/f15a6f503a7b30675e2e796f9a18a1ca.png" width="450"/>
-
+This version was modified. Changes:
+1. Remove the screen thumbnail at the first column of the client list. (But you can use `Fresh` button added newly to get the thumbnail)
+2. Optimized the behavior of Ping. Fewer clients will be Pinged at the same time.
+3. Optimized the thread amount. Reduced the high occupancy.
+4. Added a new function: you can filter client by `Client Name` which can be changed.
+5. Added double click to change the client name.
