@@ -1,0 +1,6 @@
+C:\Users\Felix\Desktop\RAT-NjRat-0.7d-modded-source-code\SRC - NjRAT 0.7D\STUB\bin\Release\Stub.exe
+C:\Users\Felix\Desktop\RAT-NjRat-0.7d-modded-source-code\SRC - NjRAT 0.7D\STUB\bin\Release\Stub.pdb
+C:\Users\Felix\Desktop\RAT-NjRat-0.7d-modded-source-code\SRC - NjRAT 0.7D\STUB\obj\x86\Release\j.vbproj.AssemblyReference.cache
+C:\Users\Felix\Desktop\RAT-NjRat-0.7d-modded-source-code\SRC - NjRAT 0.7D\STUB\obj\x86\Release\j.vbproj.CoreCompileInputs.cache
+C:\Users\Felix\Desktop\RAT-NjRat-0.7d-modded-source-code\SRC - NjRAT 0.7D\STUB\obj\x86\Release\Stub.exe
+C:\Users\Felix\Desktop\RAT-NjRat-0.7d-modded-source-code\SRC - NjRAT 0.7D\STUB\obj\x86\Release\Stub.pdb
