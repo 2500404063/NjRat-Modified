@@ -19,3 +19,5 @@ This version was modified. Changes:
 3. Optimized the thread amount. Reduced the high occupancy.
 4. Added a new function: you can filter client by `Client Name` which can be changed.
 5. Added double click to change the client name.
+
+**And what! Remember to Turn Off Defenders.**
